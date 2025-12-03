@@ -8,7 +8,7 @@ When applicable I will include the output of each program in a comment at the bo
 
 Puzzle List - _Italics_ indicate that I learned that language for the puzzle
 - [x] Day 1 -- _Rust_
-- [ ] Day 2 -- _PDP-11 Assembly_
+- [x] Day 2 -- ~~_PDP-11 Assembly_~~ _Vlang_ (See Below)
 - [ ] Day 3 -- _Prolog_
 - [ ] Day 4 -- Bash / PostgreSQL
 - [ ] Day 5 -- _Haskell_
@@ -19,3 +19,5 @@ Puzzle List - _Italics_ indicate that I learned that language for the puzzle
 - [ ] Day 10 -- C
 - [ ] Day 11 -- JS
 - [ ] Day 12 -- Java
+
+<sub>While Day 2's puzzle is technically possible with PAL11, it requires 64-bit arithmetic which is not easy to implement on a 16-bit system with a basic assembly language. I also didn't really want to spend all day solving the puzzle with another more modern assembly language.</sub>
