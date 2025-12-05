@@ -9,7 +9,7 @@ When applicable I will include the output of each program in a comment at the bo
 Puzzle List - _Italics_ indicate that I learned that language for the puzzle
 - [x] Day 1 -- _Rust_
 - [x] Day 2 -- ~~_PDP-11 Assembly_~~ _Vlang_ (See Below)
-- [ ] Day 3 -- _Prolog_
+- [ ] Day 3 -- Lua/_Prolog_ -- Prolog will be done at a later date
 - [ ] Day 4 -- Bash / PostgreSQL
 - [ ] Day 5 -- _Haskell_
 - [ ] Day 6 -- _Zig_
